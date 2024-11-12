@@ -7,6 +7,6 @@ Image
 
 <br>
 Video
-[![testVideo](https://github.com/user-attachments/assets/63125fbc-2529-4b36-81b9-afbffb859d57)]
-(https://github.com/user-attachments/assets/c3bf0e99-af75-4d83-9e06-fa38f1758340)
+
+[![Watch the video](https://github.com/user-attachments/assets/63125fbc-2529-4b36-81b9-afbffb859d57)](https://github.com/user-attachments/assets/c3bf0e99-af75-4d83-9e06-fa38f1758340)
 
